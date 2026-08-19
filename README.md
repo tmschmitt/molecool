@@ -21,6 +21,7 @@ Project based on the
 This package requires the following:
     - NumPy
     - matplotlib
+<<<<<<< HEAD
 
 Features should be developed on branches.
 To create and switch to a branch, use the command
