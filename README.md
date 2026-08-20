@@ -28,3 +28,7 @@ To create and switch to a branch, use the command
 `git checkout -b new_branch_name`
 To switch to an existing branch, use
 `git checkout new_branch_name`
+
+To submit your feature to be incorporated into the main branch, 
+you should submit a `Pull Request`.
+The repository maintainers will review your pull request before acc
